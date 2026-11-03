@@ -1,0 +1,12 @@
+{
+  "dependencies": {},
+  "description": "Haxe externs for hxmc: the declarations macOS, iOS and Mac Catalyst share.",
+  "haxe": {
+    "classPath": "src",
+    "name": "apple-shared"
+  },
+  "license": "MIT",
+  "name": "@hx-objc/apple-shared",
+  "repository": "github:hx-objc/apple-shared",
+  "version": "0.1.0"
+}
